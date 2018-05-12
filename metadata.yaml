@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1626
     wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16476#The-Rover-Boys-on-Land-and-Sea--The-Crusoes-of-Seven-Islands
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2005-08-08'
 gutenberg_type: Text
